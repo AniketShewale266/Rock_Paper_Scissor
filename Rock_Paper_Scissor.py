@@ -219,7 +219,7 @@ def close(event):
 root = Tk()
 root.title("Rock Paper Scissor Game")
 root.geometry("850x550")
-root.wm_iconbitmap("icongame.ico")
+#root.wm_iconbitmap("icongame.ico")
 
 # global labelforuser
 # global labelforcomputer
